@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Yaumi</string>
+    <string name="title_activity_chart_progress">ChartProgress</string>
+    <string name="action_settings">Settings</string>
 </resources>
